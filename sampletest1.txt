@@ -1,1 +1,2 @@
 sample mesag1
+this is comparison lecture
